@@ -1,0 +1,25 @@
+*{
+    background-color: rgb(51, 170, 255);
+    color:white;
+}
+
+h1 {
+    display: flex;
+    justify-content: center;
+
+}
+
+.hehe {
+    display: flex;
+    justify-content: center;
+}
+
+#clickme{
+    background-color: rgb(255, 255, 255);
+    color:black;
+}
+
+.displayimg {
+    display: flex;
+    justify-content: center;
+}
